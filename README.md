@@ -1,5 +1,5 @@
-Important: Before running the script be sure that you have stable Internet connection!
-Important: Before running the script set your working directory by setwd() command!
+## Important: Before running the script be sure that you have stable Internet connection!
+## Important: Before running the script set your working directory by setwd() command!
 
 Here is the information about how the scrip works (steps A-I):
 A. The script downloads the archive data file provided in the assignment using following link:
